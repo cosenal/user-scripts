@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name        GitHub Repo Dates
-// @license     GNU GPLv3
+// @license     MIT
 // @namespace   https://github.com/cosenal/Userscripts
 // @description Show the date on which a GitHub repo was created
 // @include     https://github.com/*
