@@ -1,7 +1,8 @@
 # GitHub Repo Date
 
-It shows the date of creation of a GitHub repo on the main page of the repo itself.
-This user script answers [this StackOverflow question](http://stackoverflow.com/q/23611669).
+This user script shows the date of creation of a GitHub repo on the main page of the repo itself.
+
+It answers [this StackOverflow question](http://stackoverflow.com/q/23611669).
 
 ## Screenshot
 
