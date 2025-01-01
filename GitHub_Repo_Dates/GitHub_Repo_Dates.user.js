@@ -1,10 +1,10 @@
 // ==UserScript==
 // @name         GitHub Repo Dates
+// @description  Display creation date of GitHub repositories
+// @copyright    2024, cosenal (https://cosenal.github.io/)
 // @license      MIT
 // @namespace    https://github.com/cosenal/user-scripts
 // @version      0.1.0
-// @description  Display creation date of GitHub repositories
-// @author       cosenal
 // @match        https://github.com/*/*
 // @grant        GM_xmlhttpRequest
 // @connect      api.github.com
