@@ -10,6 +10,9 @@
 // @connect      api.github.com
 // ==/UserScript==
 
+// ==OpenUserJS==
+// @author       cosenal
+// ==/OpenUserJS==
 
 (function() {
     // Ensure we are on the main repository page
